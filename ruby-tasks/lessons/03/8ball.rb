@@ -1,3 +1,5 @@
+# coding: UTF-8
+
 answers = [
     # Положительные
     "Бесспорно",
@@ -29,5 +31,3 @@ answers = [
   ]
 
   puts answers.sample
-
-  
